@@ -25,7 +25,7 @@ I'm a passionate Computer Science student who loves exploring the world of progr
 ### 📬 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mennasalah" target="_blank">
+  <a href="https://www.linkedin.com/in/menna-salah-545921381/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
